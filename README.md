@@ -9,7 +9,7 @@ The associated paper to this repository can be found here: (coming soon)
 ## Data Organization
 The Tweet-IDs are organized as follows:
 * Tweet-ID files are stored in folders that indicate the year and month of the collection (YEAR-MONTH). 
-* Individual Tweet-ID files contain a collection of Tweet IDs, and the file names all follow the same structure, with a prefix us-presidential-tweet-id-” followed by the YEAR-MONTH-DATE-HOUR. 
+* Individual Tweet-ID files contain a collection of Tweet IDs, and the file names all follow the same structure, with a prefix "us-presidential-tweet-id-” followed by the YEAR-MONTH-DATE-HOUR. 
 * Note that Twitter returns Tweets in UTC, and thus all Tweet ID folders and file names are all in UTC as well. 
 
 ## Notes About the Data
