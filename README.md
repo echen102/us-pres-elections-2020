@@ -51,7 +51,8 @@ python3 hydrate.py
 # Data Usage Agreement
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
 
-Manuscript information coming soon.
+Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election. Arxiv (2020)
+
 PDF of paper can be found in the repository [here](https://github.com/echen102/us-pres-elections-2020/blob/master/%23Election2020%20The%20First%20Public%20Twitter%20Dataset%20on%20the%202020%20US%20Presidential%20Election.pdf)
 
 
