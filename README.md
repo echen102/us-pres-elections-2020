@@ -3,7 +3,7 @@
 The repository contains an ongoing collection of tweets IDs associated with the 2020 United States presidential elections, with our data collection starting on May 20, 2019. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. We currently have a backlog of historical twitter files that we are working on pre-processing and extracting Tweet IDs from; **we will be releasing both past and future data sets as the data becomes available and as we finish pre-processing the data. Thank you for your patience!**
 
 
-The associated paper to this repository can be found here: (coming soon)
+The associated paper to this repository can be found here: (coming soon - PDF of paper can be found in the repository [here](https://github.com/echen102/us-pres-elections-2020/blob/master/%23Election2020%20The%20First%20Public%20Twitter%20Dataset%20on%20the%202020%20US%20Presidential%20Election.pdf))
 
 
 ## Data Organization
@@ -52,7 +52,7 @@ python3 hydrate.py
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
 
 Manuscript information coming soon.
-
+PDF of paper can be found in the repository [here](https://github.com/echen102/us-pres-elections-2020/blob/master/%23Election2020%20The%20First%20Public%20Twitter%20Dataset%20on%20the%202020%20US%20Presidential%20Election.pdf)
 
 
 # Statistics Summary (v1.0) 
