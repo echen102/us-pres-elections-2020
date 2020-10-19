@@ -3,7 +3,7 @@
 The repository contains an ongoing collection of tweets IDs associated with the 2020 United States presidential elections, with our data collection starting on May 20, 2019. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. We currently have a backlog of historical twitter files that we are working on pre-processing and extracting Tweet IDs from; **we will be releasing both past and future data sets as the data becomes available and as we finish pre-processing the data. Thank you for your patience!**
 
 
-The associated paper to this repository can be found [here](https://arxiv.org/abs/2010.00600)
+The associated paper to this repository can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
 
 ## Data Organization
@@ -53,16 +53,18 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election. Arxiv (2020)
 
-PDF of paper can be found [here](https://arxiv.org/abs/2010.00600)
+PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.0) 
-Number of Tweets : **240,225,806**
+# Statistics Summary (v1.1) 
+Number of Tweets : **386,931,793**
 
 
 # Known Gaps
-| Date          | Time              |
-|-------------  |-----              |
-|               |                   |
+| Date          | Time               |
+|-------------  |-----               |
+| 6/16/20       | 17:00 - 24:00 UTC  |
+| 6/17/20       | 00:00 - 02:00 UTC  |
+| 6/19/20       | 16:00 - 17:00 UTC  |
 
 # Inquiries
 
