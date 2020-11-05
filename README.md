@@ -55,16 +55,36 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.1) 
-Number of Tweets : **386,931,793**
+# Statistics Summary (v1.2) 
+Number of Tweets : **551,208,328**
 
+**Language breakdown to be updated** 
 
 # Known Gaps
-| Date          | Time               |
-|-------------  |-----               |
-| 6/16/20       | 17:00 - 24:00 UTC  |
-| 6/17/20       | 00:00 - 02:00 UTC  |
-| 6/19/20       | 16:00 - 17:00 UTC  |
+| Date           | Time               |
+|-------------   |-----               |
+| 05/01/20       | 07:00 - 24:00 UTC  |
+| 05/02/20       | 00:00 - 04:00 UTC  |
+| 05/05/20       | 17:00 - 18:00 UTC  |
+| 05/07/20       | 00:00 - 13:00 UTC  |
+| 05/17/20       | 23:00 - 24:00 UTC  |
+| 05/18/20       | 00:00 - 15:00 UTC  | 
+| 05/23/20       | 23:00 - 24:00 UTC  | 
+| 05/26/20       | 21:00 - 24:00 UTC  |
+| 05/27/20       | 00:00 - 03:00 UTC  |
+| 05/30/20       | 16:00 - 24:00 UTC  |
+| 05/31/20       | 00:00 - 06:00 UTC  |
+| 06/01/20       | 17:00 - 19:00 UTC  |
+| 06/03/20       | 18:00 - 22:00 UTC  | 
+| 06/04/20       | 21:00 - 24:00 UTC  |
+| 06/05/20       | 00:00 - 17:00 UTC  |
+| 06/07/20       | 14:00 - 24:00 UTC  |
+| 06/08/20       | 00:00 - 04:00 UTC  |
+| 06/12/20       | 20:00 - 24:00 UTC  |
+| 06/13/20       | 00:00 - 21:00 UTC  ||
+| 06/16/20       | 17:00 - 24:00 UTC  |
+| 06/17/20       | 00:00 - 02:00 UTC  |
+| 06/19/20       | 16:00 - 17:00 UTC  |
 
 # Inquiries
 
