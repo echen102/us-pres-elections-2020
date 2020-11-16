@@ -55,15 +55,44 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.2) 
-Number of Tweets : **551,208,328**
+# Statistics Summary (v1.3) 
+Number of Tweets : **802,029,566**
 
-**Language breakdown to be updated** 
+Language breakdown of top 10 most prevalent languages : 
+| Language        | ISO     | No. tweets       | % total Tweets    |
+|-------------    |-----    |------------      |----------------   |
+| English         | en      | 708,621,033      | 88.35%            |
+| Undefined       | und     | 65,438,683       | 8.16%             |
+| Spanish         | es      | 9,901,284        | 1.23%             |
+| Portuguese      | pt      | 2,985,182        | 0.37%             |
+| French          | fr      | 2,867,298        | 0.36%             |
+| Japanese        | ja      | 1,334,127        | 0.17%             |
+| Indonesian      | in      | 1,018,664        | 0.13%             |
+| German          | de      | 991,106          | 0.12%             |
+| Turkish         | tr      | 895,239          | 0.11%             |
+| Tagalog         | tl      | 849,108          | 0.11%             |
 
 # Known Gaps
 | Date           | Time               |
 |-------------   |-----               |
-| 05/01/20       | 07:00 - 24:00 UTC  |
+| 03/05/20       | 23:00 - 24:00 UTC  |
+| 03/06/20       | 00:00 - 24:00 UTC  |
+| 03/07/20       | 00:00 - 02:00 UTC  |
+| 03/09/20       | 19:00 - 22:00 UTC  |
+| 03/17/20       | 00:00 - 01:00 UTC  |
+| 03/21/20       | 23:00 - 24:00 UTC  |
+| 03/25/20       | 22:00 - 24:00 UTC  |
+| 03/26/20       | 00:00 - 15:00 UTC  |
+| 04/02/20       | 00:00 - 23:00 UTC  |
+| 04/12/20       | 00:00 - 15:00 UTC  |
+| 04/16/20       | 23:00 - 24:00 UTC  |
+| 04/18/20       | 23:00 - 24:00 UTC  |
+| 04/19/20       | 00:00 - 05:00 UTC  |
+| 04/21/20       | 22:00 - 24:00 UTC  |
+| 04/27/20       | 22:00 - 24:00 UTC  |
+| 04/28/20       | 01:00 - 14:00 UTC  |
+| 04/30/20       | 20:00 - 24:00 UTC  |
+| 05/01/20       | 00:00 - 24:00 UTC  |
 | 05/02/20       | 00:00 - 04:00 UTC  |
 | 05/05/20       | 17:00 - 18:00 UTC  |
 | 05/07/20       | 00:00 - 13:00 UTC  |
@@ -81,7 +110,7 @@ Number of Tweets : **551,208,328**
 | 06/07/20       | 14:00 - 24:00 UTC  |
 | 06/08/20       | 00:00 - 04:00 UTC  |
 | 06/12/20       | 20:00 - 24:00 UTC  |
-| 06/13/20       | 00:00 - 21:00 UTC  ||
+| 06/13/20       | 00:00 - 21:00 UTC  |
 | 06/16/20       | 17:00 - 24:00 UTC  |
 | 06/17/20       | 00:00 - 02:00 UTC  |
 | 06/19/20       | 16:00 - 17:00 UTC  |
@@ -98,4 +127,5 @@ If you have any further questions about this dataset please contact Dr. Emilio F
 - [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://publichealth.jmir.org/2020/2/e19273/) [Datatset Github](https://github.com/echen102/COVID-19-TweetIDs)
 - [What types of COVID-19 conspiracies are populated by Twitter bots?](https://firstmonday.org/ojs/index.php/fm/article/view/10633/9548)
 - [Political polarization drives online conversations about COVID‐19 in the United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hbe2.202)
+- [Characterizing social media manipulation in the 2020 U.S. presidential election](https://firstmonday.org/ojs/index.php/fm/article/view/11431)
 
