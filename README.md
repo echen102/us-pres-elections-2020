@@ -55,22 +55,22 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.5) 
-Number of Tweets : **867,987,836**
+# Statistics Summary (v1.6) 
+Number of Tweets : **899,626,596**
 
 Language breakdown of top 10 most prevalent languages : 
-| Language        | ISO     | No. tweets       | % total Tweets     |
-|-------------    |-----    |------------      |----------------    |
-| English         | en      | 766,573,024      | 88.32%             |
-| Undefined       | und     | 69,778,946       | 8.04%              |
-| Spanish         | es      | 11,090,867       | 1.28%              |
-| Portuguese      | pt      | 3,403,975        | 0.39%              |
-| French          | fr      | 3,353,617        | 0.39%              |
-| Japanese        | ja      | 1,691,162        | 0.19%              |
-| German          | de      | 1,127,513        | 0.13%              |
-| Indonesian      | in      | 1,094,345        | 0.13%              |
-| Turkish         | tr      | 1,034,606        | 0.12%              |
-| Italian         | it      | 973,293          | 0.11%              |
+| Language        | ISO     | No. tweets       | % total Tweets    |
+|-------------    |-----    |------------      |----------------   |
+| English         | en      | 794,018,352      | 88.26%            |
+| Undefined       | und     | 72,515,636       | 8.06%             |
+| Spanish         | es      | 11,516,399       | 1.28%             |
+| Portuguese      | pt      | 3,569,268        | 0.4%              |
+| French          | fr      | 3,561,278        | 0.4%              |
+| Japanese        | ja      | 1,857,435        | 0.21%             |
+| German          | de      | 1,178,241        | 0.13%             |
+| Indonesian      | in      | 1,121,300        | 0.12%             |
+| Turkish         | tr      | 1,087,933        | 0.12%             |
+| Italian         | it      | 1,020,081        | 0.11%             |
 
 # Known Gaps
 | Date           | Time               |
