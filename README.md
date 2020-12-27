@@ -5,6 +5,7 @@ The repository contains an ongoing collection of tweets IDs associated with the 
 
 The associated paper to this repository can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
+**RELEASE PAUSE DUE TO SERVER MAINTENANCE (12/26/2020): The servers where we are hosting our data are undergoing maintenance for the next week and a half. We will be unable to update data until then, but expect to catch up with all uploads by January 8, 2021. We apologize for the inconvenience!**
 
 ## Data Organization
 The Tweet-IDs are organized as follows:
