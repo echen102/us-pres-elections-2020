@@ -5,8 +5,6 @@ The repository contains an ongoing collection of tweets IDs associated with the 
 
 The associated paper to this repository can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-**RELEASE PAUSE DUE TO SERVER MAINTENANCE (12/26/2020): The servers where we are hosting our data are undergoing maintenance for the next week and a half. We will be unable to update data until then, but expect to catch up with all uploads by January 8, 2021. We apologize for the inconvenience!**
-
 ## Data Organization
 The Tweet-IDs are organized as follows:
 * Tweet-ID files are stored in folders that indicate the year and month of the collection (YEAR-MONTH). 
@@ -56,22 +54,22 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.8) 
-Number of Tweets : **965,620,919**
+# Statistics Summary (v1.9) 
+Number of Tweets : **1,029,208,059**
 
 Language breakdown of top 10 most prevalent languages : 
-| Language        | ISO     | No. tweets       | % total Tweets    |
-|-------------    |-----    |------------      |----------------   |
-| English         | en      | 852,240,295      | 88.26%            |
-| Undefined       | und     | 77,232,721       | 8.0%              |
-| Spanish         | es      | 12,410,424       | 1.29%             |
-| French          | fr      | 3,995,553        | 0.41%             |
-| Portuguese      | pt      | 3,909,078        | 0.4%              |
-| Japanese        | ja      | 2,229,320        | 0.23%             |
-| German          | de      | 1,277,259        | 0.13%             |
-| Turkish         | tr      | 1,193,582        | 0.12%             |
-| Indonesian      | in      | 1,176,919        | 0.12%             |
-| Italian         | it      | 1,116,030        | 0.12%             |
+| Language        | ISO     | No. tweets       | % total Tweets     |
+|-------------    |-----    |------------      |----------------    |
+| English         | en      | 908,947,489      | 88.32%             |
+| Undefined       | und     | 81,465,236       | 7.92%              |
+| Spanish         | es      | 13,131,683       | 1.28%              |
+| French          | fr      | 4,370,780        | 0.42%              |
+| Portuguese      | pt      | 4,120,708        | 0.4%               |
+| Japanese        | ja      | 2,510,318        | 0.24%              |
+| German          | de      | 1,361,726        | 0.13%              |
+| Indonesian      | in      | 1,280,960        | 0.12%              |
+| Turkish         | tr      | 1,272,734        | 0.12%              |
+| Italian         | it      | 1,197,276        | 0.12%              |
 
 # Known Gaps
 | Date           | Time               |
