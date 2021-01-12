@@ -166,3 +166,5 @@ trump concede           11/09/20
 dr. biden               11/10/20
 drbiden                 11/10/20
 dr.biden                11/10/20
+transitiontobiden       11/23/20
+transition to biden     11/23/20
