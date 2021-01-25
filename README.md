@@ -54,26 +54,40 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.11) 
-Number of Tweets : **1,084,679,799**
+# Statistics Summary (v1.12) 
+Number of Tweets : **1,258,209,617**
 
 Language breakdown of top 10 most prevalent languages : 
-| Language        | ISO     | No. tweets       | % total Tweets     |
-|-------------    |-----    |------------      |----------------    |
-| English         | en      | 956,767,941      | 88.21%             |
-| Undefined       | und     | 83,843,989       | 7.73%              |
-| Spanish         | es      | 15,070,043       | 1.39%              |
-| French          | fr      | 5,072,031        | 0.47%              |
-| Portuguese      | pt      | 4,723,192        | 0.44%              |
-| Japanese        | ja      | 2,944,236        | 0.27%              |
-| German          | de      | 1,550,752        | 0.14%              |
-| Turkish         | tr      | 1,532,827        | 0.14%              |
-| Italian         | it      | 1,419,758        | 0.13%              |
-| Indonesian      | in      | 1,361,103        | 0.13%              |
+| Language        | ISO     | No. tweets       | % total Tweets    |
+|-------------    |-----    |------------      |----------------   |
+| English         | en      | 1,111,698,635    | 88.36%            |
+| Undefined       | und     | 95,452,866       | 7.59%             |
+| Spanish         | es      | 17,387,937       | 1.38%             |
+| French          | fr      | 5,703,955        | 0.45%             |
+| Portuguese      | pt      | 5,224,164        | 0.42%             |
+| Japanese        | ja      | 3,368,223        | 0.27%             |
+| German          | de      | 1,743,004        | 0.14%             |
+| Turkish         | tr      | 1,700,836        | 0.14%             |
+| Indonesian      | in      | 1,680,790        | 0.13%             |
+| Italian         | it      | 1,585,394        | 0.13%             |
 
 # Known Gaps
 | Date           | Time               |
 |-------------   |-----               |
+| 12/06/19       | 00:00 - 23:00 UTC  |
+| 12/07/19       | 18:00 - 19:00 UTC  |
+| 12/07/19       | 18:00 - 19:00 UTC  |
+| 12/29/19       | 01:00 - 02:00 UTC  |
+| 01/03/20       | 05:00 - 06:00 UTC  |
+| 01/05/20       | 02:00 - 24:00 UTC  |
+| 01/06/20       | 00:00 - 18:00 UTC  |
+| 01/19/20       | 04:00 - 23:00 UTC  |
+| 01/25/20       | 01:00 - 20:00 UTC  |
+| 01/28/20       | 22:00 - 24:00 UTC  |
+| 01/29/20       | 00:00 - 05:00 UTC  |
+| 02/02/20       | 03:00 - 18:00 UTC  |
+| 02/04/20       | 19:00 - 24:00 UTC  |
+| 02/05/20       | 00:00 - 23:00 UTC  |
 | 03/05/20       | 23:00 - 24:00 UTC  |
 | 03/06/20       | 00:00 - 24:00 UTC  |
 | 03/07/20       | 00:00 - 02:00 UTC  |
