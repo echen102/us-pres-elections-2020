@@ -54,7 +54,7 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.14) 
+# Statistics Summary (v1.16) 
 Number of Tweets : **1,331,666,824**
 
 Language breakdown of top 10 most prevalent languages : 
