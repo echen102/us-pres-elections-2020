@@ -55,21 +55,21 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
 # Statistics Summary (v1.16) 
-Number of Tweets : **1,331,666,824**
+Number of Tweets : **1,355,356,627**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,177,980,985    | 88.46%             |
-| Undefined       | und     | 97,842,636       | 7.35%              |
-| Spanish         | es      | 19,288,374       | 1.45%              |
-| French          | fr      | 6,218,632        | 0.47%              |
-| Portuguese      | pt      | 5,636,046        | 0.42%              |
-| Japanese        | ja      | 3,866,963        | 0.29%              |
-| Turkish         | tr      | 1,955,487        | 0.15%              |
-| German          | de      | 1,902,021        | 0.14%              |
-| Indonesian      | in      | 1,777,969        | 0.13%              |
-| Italian         | it      | 1,716,031        | 0.13%              |
+| English         | en      | 1,199,507,885    | 88.5%              |
+| Undefined       | und     | 98,659,068       | 7.28%              |
+| Spanish         | es      | 19,824,427       | 1.46%              |
+| French          | fr      | 6,362,408        | 0.47%              |
+| Portuguese      | pt      | 5,744,967        | 0.42%              |
+| Japanese        | ja      | 4,002,860        | 0.3%               |
+| Turkish         | tr      | 2,011,560        | 0.15%              |
+| German          | de      | 1,948,868        | 0.14%              |
+| Indonesian      | in      | 1,809,408        | 0.13%              |
+| Italian         | it      | 1,750,350        | 0.13%              |
 
 # Known Gaps
 | Date           | Time               |
