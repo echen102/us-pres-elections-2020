@@ -54,22 +54,22 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.18) 
-Number of Tweets : **1,393,290,082**
+# Statistics Summary (v1.19) 
+Number of Tweets : **1,409,938,357**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,233,347,984    | 88.52%             |
-| Undefined       | und     | 99,999,999       | 7.18%              |
-| Spanish         | es      | 21,147,826       | 1.52%              |
-| French          | fr      | 6,605,547        | 0.47%              |
-| Portuguese      | pt      | 6,003,062        | 0.43%              |
-| Japanese        | ja      | 4,173,054        | 0.3%               |
-| Turkish         | tr      | 2,122,926        | 0.15%              |
-| German          | de      | 2,031,978        | 0.15%              |
-| Indonesian      | in      | 1,859,741        | 0.13%              |
-| Italian         | it      | 1,824,020        | 0.13%              |
+| English         | en      | 1,248,450,707    | 88.55%             |
+| Undefined       | und     | 100,567,113      | 7.13%              |
+| Spanish         | es      | 21,520,312       | 1.53%              |
+| French          | fr      | 6,678,820        | 0.47%              |
+| Portuguese      | pt      | 6,144,301        | 0.44%              |
+| Japanese        | ja      | 4,238,814        | 0.3%               |
+| Turkish         | tr      | 2,174,509        | 0.15%              |
+| German          | de      | 2,069,893        | 0.15%              |
+| Indonesian      | in      | 1,883,535        | 0.13%              |
+| Italian         | it      | 1,846,074        | 0.13%              |
 
 # Known Gaps
 | Date           | Time               |
