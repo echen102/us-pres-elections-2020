@@ -54,22 +54,22 @@ Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter D
 
 PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
-# Statistics Summary (v1.19) 
-Number of Tweets : **1,409,938,357**
+# Statistics Summary (v1.20) 
+Number of Tweets : **1,427,254,945**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,248,450,707    | 88.55%             |
-| Undefined       | und     | 100,567,113      | 7.13%              |
-| Spanish         | es      | 21,520,312       | 1.53%              |
-| French          | fr      | 6,678,820        | 0.47%              |
-| Portuguese      | pt      | 6,144,301        | 0.44%              |
-| Japanese        | ja      | 4,238,814        | 0.3%               |
-| Turkish         | tr      | 2,174,509        | 0.15%              |
-| German          | de      | 2,069,893        | 0.15%              |
-| Indonesian      | in      | 1,883,535        | 0.13%              |
-| Italian         | it      | 1,846,074        | 0.13%              |
+| English         | en      | 1,263,605,867    | 88.53%             |
+| Undefined       | und     | 101,192,726      | 7.09%              |
+| Spanish         | es      | 22,134,894       | 1.55%              |
+| French          | fr      | 6,838,245        | 0.48%              |
+| Portuguese      | pt      | 6,356,911        | 0.45%              |
+| Japanese        | ja      | 4,300,596        | 0.3%               |
+| Turkish         | tr      | 2,256,950        | 0.16%              |
+| German          | de      | 2,121,325        | 0.15%              |
+| Italian         | it      | 1,921,285        | 0.13%              |
+| Indonesian      | in      | 1,901,723        | 0.13%              |
 
 # Known Gaps
 | Date           | Time               |
@@ -141,4 +141,5 @@ If you have any further questions about this dataset please contact Dr. Emilio F
 - [What types of COVID-19 conspiracies are populated by Twitter bots?](https://firstmonday.org/ojs/index.php/fm/article/view/10633/9548)
 - [Political polarization drives online conversations about COVID‐19 in the United States](https://onlinelibrary.wiley.com/doi/full/10.1002/hbe2.202)
 - [Characterizing social media manipulation in the 2020 U.S. presidential election](https://firstmonday.org/ojs/index.php/fm/article/view/11431)
+- [COVID-19 misinformation and the 2020 U.S. presidential election](https://misinforeview.hks.harvard.edu/article/covid-19-misinformation-and-the-2020-u-s-presidential-election/)
 
