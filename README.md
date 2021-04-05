@@ -3,7 +3,7 @@
 The repository contains an ongoing collection of tweets IDs associated with the 2020 United States presidential elections, with our data collection starting on May 20, 2019. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. We currently have a backlog of historical twitter files that we are working on pre-processing and extracting Tweet IDs from; **we will be releasing both past and future data sets as the data becomes available and as we finish pre-processing the data. Thank you for your patience!**
 
 
-The associated paper to this repository can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
+The associated paper to this repository can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://doi.org/10.1007/s42001-021-00117-9)
 
 ## Data Organization
 The Tweet-IDs are organized as follows:
@@ -50,26 +50,30 @@ python3 hydrate.py
 # Data Usage Agreement
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
 
-Emily Chen, Ashok Deb, Emilio Ferrara. #Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election. Arxiv (2020)
+Chen, E., Deb, A. & Ferrara, E. #Election2020: the first public Twitter dataset on the 2020 US Presidential election. J Comput Soc Sc (2021). [https://doi.org/10.1007/s42001-021-00117-9](https://doi.org/10.1007/s42001-021-00117-9)
 
-PDF of paper can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
+The published paper can be found [here](https://doi.org/10.1007/s42001-021-00117-9) at the Journal of Computational Social Science. 
 
-# Statistics Summary (v1.21) 
-Number of Tweets : **1,443,821,117**
+PDF of paper can also be found here on arXiv: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
+
+
+
+# Statistics Summary (v1.22) 
+Number of Tweets : **1,457,571,998**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,278,487,125    | 88.55%             |
-| Undefined       | und     | 101,733,913      | 7.05%              |
-| Spanish         | es      | 22,544,350       | 1.56%              |
-| French          | fr      | 6,963,943        | 0.48%              |
-| Portuguese      | pt      | 6,482,984        | 0.45%              |
-| Japanese        | ja      | 4,372,881        | 0.3%               |
-| Turkish         | tr      | 2,349,546        | 0.16%              |
-| German          | de      | 2,161,534        | 0.15%              |
-| Italian         | it      | 1,958,230        | 0.14%              |
-| Indonesian      | in      | 1,921,202        | 0.13%              |
+| English         | en      | 1,290,805,545    | 88.56%             |
+| Undefined       | und     | 102,217,706      | 7.01%              |
+| Spanish         | es      | 22,881,942       | 1.57%              |
+| French          | fr      | 7,113,555        | 0.49%              |
+| Portuguese      | pt      | 6,609,427        | 0.45%              |
+| Japanese        | ja      | 4,433,603        | 0.3%               |
+| Turkish         | tr      | 2,390,191        | 0.16%              |
+| German          | de      | 2,190,295        | 0.15%              |
+| Italian         | it      | 1,979,521        | 0.14%              |
+| Indonesian      | in      | 1,940,375        | 0.13%              |
 
 # Known Gaps
 | Date           | Time               |
