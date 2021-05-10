@@ -58,22 +58,23 @@ PDF of paper can also be found here on arXiv: [#Election2020: The First Public T
 
 
 
-# Statistics Summary (v1.26) 
-Number of Tweets : **1,508,805,629**
+# Statistics Summary (v1.27) 
+Number of Tweets : **1,522,373,517**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,335,368,640    | 88.51%             |
-| Undefined       | und     | 104,059,010      | 6.9%               |
-| Spanish         | es      | 24,450,422       | 1.62%              |
-| French          | fr      | 7,492,202        | 0.5%               |
-| Portuguese      | pt      | 7,156,529        | 0.47%              |
-| Japanese        | ja      | 4,732,017        | 0.31%              |
-| Turkish         | tr      | 3,269,769        | 0.22%              |
-| German          | de      | 2,312,330        | 0.15%              |
-| Italian         | it      | 2,077,607        | 0.14%              |
-| Indonesian      | in      | 2,019,890        | 0.13%              |
+| English         | en      | 1,347,118,294    | 88.49%             |
+| Undefined       | und     | 104,532,608      | 6.87%              |
+| Spanish         | es      | 25,059,105       | 1.65%              |
+| French          | fr      | 7,612,912        | 0.5%               |
+| Portuguese      | pt      | 7,275,827        | 0.48%              |
+| Japanese        | ja      | 4,804,247        | 0.32%              |
+| Turkish         | tr      | 3,331,350        | 0.22%              |
+| German          | de      | 2,339,819        | 0.15%              |
+| Italian         | it      | 2,106,821        | 0.14%              |
+| Indonesian      | in      | 2,041,812        | 0.13%              |
+
 
 # Known Gaps
 | Date           | Time               |
