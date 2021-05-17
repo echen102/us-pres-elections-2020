@@ -1,5 +1,6 @@
 # 2020 US Presidential Election Tweet IDs
 
+** We will be stopping regular updates of this repository on June 21, 2021. This dataset aims to capture discourse from the 2020 election cycle, and we have continued to collect through 6 months after President Biden's inauguration. **
 The repository contains an ongoing collection of tweets IDs associated with the 2020 United States presidential elections, with our data collection starting on May 20, 2019. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. We currently have a backlog of historical twitter files that we are working on pre-processing and extracting Tweet IDs from; **we will be releasing both past and future data sets as the data becomes available and as we finish pre-processing the data. Thank you for your patience!**
 
 
@@ -15,7 +16,6 @@ The Tweet-IDs are organized as follows:
 
 
 ### Other Notes
-* We will be continuously maintaining this database for the foreseeable future, and will be uploading new data on a weekly basis.  
 * There may be a few hours of missing data due to technical difficulties. We will do our best to recover as many Tweets from those time frames by using Twitter’s search API. 
 * We will keep a running summary of basic statistics as we upload data in each new release. 
 * The file keywords.txt and accounts.txt contains the updated keywords and accounts respectively that we tracked in our data collection. Each keyword and account will be followed by the date we began tracking them, and date we removed them (if the keyword or account has been removed) from our tracking list. If a keyword or account was added, removed and then re-added, the first date will indicate when the keyword or account was first added to our list, the second date indicates when the keyword or account was removed and the third date is the date that it was subsequently re-added. 
@@ -57,23 +57,22 @@ The published paper can be found [here](https://doi.org/10.1007/s42001-021-00117
 PDF of paper can also be found here on arXiv: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
 
-
-# Statistics Summary (v1.27) 
-Number of Tweets : **1,522,373,517**
+# Statistics Summary (v1.28) 
+Number of Tweets : **1,536,768,510**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,347,118,294    | 88.49%             |
-| Undefined       | und     | 104,532,608      | 6.87%              |
-| Spanish         | es      | 25,059,105       | 1.65%              |
-| French          | fr      | 7,612,912        | 0.5%               |
-| Portuguese      | pt      | 7,275,827        | 0.48%              |
-| Japanese        | ja      | 4,804,247        | 0.32%              |
-| Turkish         | tr      | 3,331,350        | 0.22%              |
-| German          | de      | 2,339,819        | 0.15%              |
-| Italian         | it      | 2,106,821        | 0.14%              |
-| Indonesian      | in      | 2,041,812        | 0.13%              |
+| English         | en      | 1,359,808,462    | 88.48%             |
+| Undefined       | und     | 105,075,184      | 6.84%              |
+| Spanish         | es      | 25,496,392       | 1.66%              |
+| French          | fr      | 7,712,180        | 0.5%               |
+| Portuguese      | pt      | 7,407,532        | 0.48%              |
+| Japanese        | ja      | 4,863,153        | 0.32%              |
+| Turkish         | tr      | 3,398,421        | 0.22%              |
+| German          | de      | 2,369,613        | 0.15%              |
+| Indonesian      | in      | 2,138,200        | 0.14%              |
+| Italian         | it      | 2,130,598        | 0.14%              |
 
 
 # Known Gaps
