@@ -1,6 +1,6 @@
 # 2020 US Presidential Election Tweet IDs
 
-** We will be stopping regular updates of this repository on June 21, 2021. This dataset aims to capture discourse from the 2020 election cycle, and we have continued to collect through 6 months after President Biden's inauguration. **
+**We will be stopping regular updates of this repository on June 21, 2021. This dataset aims to capture discourse from the 2020 election cycle, and we will continue to collect and post tweet IDs through 6 months after President Biden's inauguration.**
 The repository contains an ongoing collection of tweets IDs associated with the 2020 United States presidential elections, with our data collection starting on May 20, 2019. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. We currently have a backlog of historical twitter files that we are working on pre-processing and extracting Tweet IDs from; **we will be releasing both past and future data sets as the data becomes available and as we finish pre-processing the data. Thank you for your patience!**
 
 
