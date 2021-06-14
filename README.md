@@ -58,22 +58,22 @@ The published paper can be found [here](https://doi.org/10.1007/s42001-021-00117
 PDF of paper can also be found here on arXiv: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
 
-# Statistics Summary (v1.31) 
-Number of Tweets : **1,573,703,554**
+# Statistics Summary (v1.32) 
+Number of Tweets : **1,588,924,175**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,392,386,991    | 88.48%             |
-| Undefined       | und     | 106,486,622      | 6.77%              |
-| Spanish         | es      | 26,618,321       | 1.69%              |
-| French          | fr      | 7,961,397        | 0.51%              |
-| Portuguese      | pt      | 7,731,444        | 0.49%              |
-| Japanese        | ja      | 5,027,071        | 0.32%              |
-| Turkish         | tr      | 3,658,696        | 0.23%              |
-| German          | de      | 2,447,692        | 0.16%              |
-| Indonesian      | in      | 2,293,635        | 0.15%              |
-| Italian         | it      | 2,194,899        | 0.14%              |
+| English         | en      | 1,405,589,073    | 88.46%             |
+| Undefined       | und     | 107,020,444      | 6.74%              |
+| Spanish         | es      | 27,314,622       | 1.72%              |
+| French          | fr      | 8,082,771        | 0.51%              |
+| Portuguese      | pt      | 7,899,455        | 0.5%               |
+| Japanese        | ja      | 5,117,494        | 0.32%              |
+| Turkish         | tr      | 3,760,368        | 0.24%              |
+| German          | de      | 2,486,236        | 0.16%              |
+| Indonesian      | in      | 2,316,679        | 0.15%              |
+| Italian         | it      | 2,233,818        | 0.14%              |
 
 
 # Known Gaps
