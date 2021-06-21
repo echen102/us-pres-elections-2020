@@ -2,7 +2,7 @@
 
 **We will be stopping regular updates of this repository on June 21, 2021. This dataset aims to capture discourse from the 2020 election cycle, and we will continue to collect and post tweet IDs through 6 months after President Biden's inauguration.**
 
-The repository contains an ongoing collection of tweets IDs associated with the 2020 United States presidential elections, with our data collection starting on May 20, 2019. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. We currently have a backlog of historical twitter files that we are working on pre-processing and extracting Tweet IDs from; **we will be releasing both past and future data sets as the data becomes available and as we finish pre-processing the data. Thank you for your patience!**
+The repository contains an ongoing collection of tweets IDs associated with the 2020 United States presidential elections, with our data collection starting on May 20, 2019. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. We currently have a backlog of historical twitter files that we are working on pre-processing and extracting Tweet IDs from; **we will be releasing past data as the data becomes available and as we finish pre-processing the data. Thank you for your patience!**
 
 
 The associated paper to this repository can be found here: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://doi.org/10.1007/s42001-021-00117-9)
@@ -58,22 +58,22 @@ The published paper can be found [here](https://doi.org/10.1007/s42001-021-00117
 PDF of paper can also be found here on arXiv: [#Election2020: The First Public Twitter Dataset on the 2020 US Presidential Election](https://arxiv.org/abs/2010.00600)
 
 
-# Statistics Summary (v1.32) 
-Number of Tweets : **1,588,924,175**
+# Statistics Summary (v1.33) 
+Number of Tweets : **1,603,585,911**
 
 Language breakdown of top 10 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,405,589,073    | 88.46%             |
-| Undefined       | und     | 107,020,444      | 6.74%              |
-| Spanish         | es      | 27,314,622       | 1.72%              |
-| French          | fr      | 8,082,771        | 0.51%              |
-| Portuguese      | pt      | 7,899,455        | 0.5%               |
-| Japanese        | ja      | 5,117,494        | 0.32%              |
-| Turkish         | tr      | 3,760,368        | 0.24%              |
-| German          | de      | 2,486,236        | 0.16%              |
-| Indonesian      | in      | 2,316,679        | 0.15%              |
-| Italian         | it      | 2,233,818        | 0.14%              |
+| English         | en      | 1,418,125,435    | 88.43%             |
+| Undefined       | und     | 107,500,259      | 6.7%               |
+| Spanish         | es      | 27,964,396       | 1.74%              |
+| French          | fr      | 8,215,786        | 0.51%              |
+| Portuguese      | pt      | 8,005,599        | 0.5%               |
+| Japanese        | ja      | 5,203,189        | 0.32%              |
+| Turkish         | tr      | 4,101,342        | 0.26%              |
+| German          | de      | 2,521,951        | 0.16%              |
+| Indonesian      | in      | 2,345,165        | 0.15%              |
+| Italian         | it      | 2,267,250        | 0.14%              |
 
 
 # Known Gaps
